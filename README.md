@@ -11,7 +11,7 @@ This project was developed with the assistance of ChatGPT and Google Gemini as A
 * Live preview of generated UI.
 * Display generated HTML code.
 * Responsive and modern interface.
-* Multiple UI templates including Login, Dashboard, Landing, Pricing, Healthcare, and Product pages.
+* Multiple UI templates including Login, Dashboard, Landing, Pricing, and Healthcare.
 
 ## 🛠️ Tech Stack
 
