@@ -25,34 +25,34 @@ An AI-inspired UI Generator built with React.js, Node.js, and Express.js that ge
 ## 📸 Project Screenshots
 
 ### 🏠 Home Page
-![Home](screenshots/home.png)
+![home](screenshots/home.png)
 
 ### 🏡 Homepage UI
-![Homepage UI](screenshots/HOMEPAGE.png)
+![HOMEPAGE](screenshots/HOMEPAGE.png)
 
 ### 🔐 Login Page
-![Login](screenshots/login.png)
+![login](screenshots/login.png)
 
 ### 📊 Dashboard
-![Dashboard](screenshots/dashboard.png)
+![dashboard](screenshots/dashboard.png)
 
 ### 📈 Dashboard UI
-![Dashboard UI](screenshots/dashboard-ui.png)
+![dashboard UI](screenshots/dashboard-ui.png)
 
 ### 🌍 Landing Page
-![Landing](screenshots/landing.png)
+![landing](screenshots/landing.png)
 
 ### 💰 Pricing Page
-![Pricing](screenshots/pricing.png)
+![pricing](screenshots/pricing.png)
 
 ### 💳 Pricing UI
-![Pricing UI](screenshots/pricing-ui.png)
+![pricing UI](screenshots/pricing-ui.png)
 
 ### 🏥 Healthcare Page
-![Healthcare](screenshots/health.png)
+![healthcare](screenshots/health.png)
 
 ### 🏥 Healthcare UI
-![Healthcare UI](screenshots/health-ui.png)
+![healthcare UI](screenshots/health-ui.png)
 
 ## ▶️ How to Run
 
