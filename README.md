@@ -1,6 +1,31 @@
 # ✨ AI UI Generator
 
-An AI-inspired UI Generator built with React.js, Node.js, and Express.js that generates modern, responsive user interface layouts from text prompts.
+
+AI UI Generator is a  web application that generates modern user interface layouts based on user-provided text prompts. The project was developed using React.js for the frontend and Node.js with Express.js for the backend. It allows users to generate multiple UI designs, including login pages, dashboards, landing pages, pricing pages, healthcare interfaces, and product pages. Each generated layout is displayed with a live preview alongside its corresponding HTML code, enabling users to visualize and understand the generated interface.
+
+This project was developed with the assistance of ChatGPT and Google Gemini as AI-powered development tools. ChatGPT was used for brainstorming ideas, backend logic, debugging, and project guidance, while Google Gemini assisted in enhancing the UI/UX design, improving responsiveness, and refining frontend layouts. The AI-generated suggestions were carefully evaluated, customized, integrated, and tested to create the final application.
+
+## ✨ Features
+
+* Generate multiple UI layouts from text prompts.
+* Live preview of generated UI.
+* Display generated HTML code.
+* Responsive and modern interface.
+* Multiple UI templates including Login, Dashboard, Landing, Pricing, Healthcare, and Product pages.
+
+## 🛠️ Tech Stack
+
+* React.js
+* Node.js
+* Express.js
+* JavaScript
+* HTML5
+* CSS3
+
+## 🚀 Key Learning
+
+This project strengthened my understanding of full-stack web development, frontend-backend communication, responsive UI design, component integration, debugging, and the effective use of AI-assisted development tools. It also demonstrated how AI can enhance developer productivity while emphasizing the importance of understanding, testing, and refining generated code to build practical and user-friendly applications.
+
 
 ## 🚀 Features
 
