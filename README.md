@@ -25,7 +25,7 @@ An AI-inspired UI Generator built with React.js, Node.js, and Express.js that ge
 
 ## 🤖 AI Tools Used
 
-This project was developed with the assistance of the following AI tools:
+This project is developed with the assistance of the following AI tools:
 
 ### ChatGPT (OpenAI)
 - Brainstormed the project idea.
