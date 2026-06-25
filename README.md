@@ -22,30 +22,6 @@ This project was developed with the assistance of ChatGPT and Google Gemini as A
 * HTML5
 * CSS3
 
-## 🚀 Key Learning
-
-This project strengthened my understanding of full-stack web development, frontend-backend communication, responsive UI design, component integration, debugging, and the effective use of AI-assisted development tools. It also demonstrated how AI can enhance developer productivity while emphasizing the importance of understanding, testing, and refining generated code to build practical and user-friendly applications.
-
-
-## 🚀 Features
-
-- Generate Login Page UI
-- Generate Dashboard UI
-- Generate Landing Page UI
-- Generate Pricing Page UI
-- Generate Healthcare UI
-- Live UI Preview
-- HTML Code Preview
-- Responsive Design
-
-## 🛠️ Tech Stack
-
-- React.js
-- Node.js
-- Express.js
-- HTML5
-- CSS
-- JavaScript
 
 
 ## 🤖 AI Tools Used
